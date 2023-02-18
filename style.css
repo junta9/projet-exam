@@ -64,6 +64,7 @@ header {
   width: 100%;
   background-color: #c3bfa1;
   padding-top: 20px;
+  font-weight: bold;
 }
 .quijesuis h2 {
   background-color: black;
@@ -113,6 +114,9 @@ header {
 .sejours {
   margin: 0;
   padding: 0;
+}
+.resume {
+    font-weight: bold;
 }
 @media screen and (min-width: 769px) {
   .brand a {
